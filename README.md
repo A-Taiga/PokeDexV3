@@ -1,4 +1,4 @@
 # PokeDexV3
-![IMG_1779](https://user-images.githubusercontent.com/64714887/145749479-a152afc0-db3b-4d64-b099-bf4e38385767.PNG)
-![IMG_1781](https://user-images.githubusercontent.com/64714887/145749485-e3cc5062-40e4-4f16-966e-82329ce149b9.PNG)
-![IMG_1780](https://user-images.githubusercontent.com/64714887/145749489-8fc466a6-f021-41e2-900a-2436af82474d.PNG)
+<img width="318" alt="Screen Shot 2021-12-12 at 9 52 21 PM" src="https://user-images.githubusercontent.com/64714887/145749740-5427d8f7-f9ee-4da1-980d-e131b385817f.png">
+<img width="318" alt="Screen Shot 2021-12-12 at 9 51 44 PM" src="https://user-images.githubusercontent.com/64714887/145749745-b3b82172-42bd-44f2-a30f-068facf56864.png">
+<img width="318" alt="Screen Shot 2021-12-12 at 9 51 28 PM" src="https://user-images.githubusercontent.com/64714887/145749748-55e0fece-416a-4093-a118-0ae7894e89ed.png">
