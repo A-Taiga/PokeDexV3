@@ -9,9 +9,10 @@ import SwiftUI
 
 @main
 struct PokedexV3App: App {
+    @StateObject var pokeData = PokeData()
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView().environmentObject(pokeData)
         }
     }
 }
